@@ -1,0 +1,55 @@
+#content{
+    border: 0;
+    width: 100%;
+    padding: 0px;
+}
+
+#tieude{
+    font-weight: bold;
+    padding: 20px 0px;
+    font-size: 25px;
+}
+
+.dp_flex{
+    display: flex;
+   
+}
+
+#thongbao{
+    background-color: #66FF99;
+    padding: 10px 5px;
+    
+}
+
+#thongbao1{
+    padding: 20px 0px;
+}
+
+#detail_student{
+margin-top: 30px;
+}
+#detail_student>div{
+margin-bottom: 20px;
+}
+#news{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#semester{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.aa{
+    font-weight: bold;
+    padding: 0px 20px;
+
+}
+table, th, td{
+    border:1px solid black;
+}
+table{
+    border-collapse:collapse;
+}
